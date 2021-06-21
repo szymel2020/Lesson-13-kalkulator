@@ -5,3 +5,13 @@ body {
     padding: 50px;
     text-align: center;
 }
+
+
+#n0,#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9 {
+    padding: 20px;
+    margin: 3px;
+    margin-top: 12px;
+    color: white;
+    background-color:teal;
+    
+}
