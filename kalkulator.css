@@ -6,6 +6,12 @@ body {
     text-align: center;
 }
 
+h1 {
+    color: whitesmoke;
+    letter-spacing: 25px;
+    font-family:'Courier New', Courier, monospace;
+    text-shadow:teal 4px 4px;
+}
 
 #n0,#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9 {
     padding: 20px;
