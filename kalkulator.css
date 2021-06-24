@@ -4,6 +4,9 @@ body {
     width: 950px;
     padding: 50px;
     text-align: center;
+    display:flex;
+    flex-direction:column;
+    align-items: center;
 }
 
 h1 {
@@ -18,7 +21,13 @@ h1 {
     height: 40px;
     margin: 10px;
     background-color: white;
-    float: left;
+  
+    
+}
+
+#allbox {
+    display:flex;
+    
 }
 
 #n0,#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9 {
