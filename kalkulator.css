@@ -16,7 +16,7 @@ h1 {
     text-shadow:teal 4px 4px;
 }
 
-#box1,#box2,#box3,#box7,#box8,#box9 {
+#box1,#box2,#box3,#box4,#box5,#box6,#box7,#box8,#box9 {
     width: 50px;
     height: 80px;
     margin: 10px;
@@ -26,7 +26,7 @@ h1 {
     justify-content: center; 
 }
 
-#allbox,#allB {
+#allbox,#allB,#allbox1 {
     display:flex;
     
 }

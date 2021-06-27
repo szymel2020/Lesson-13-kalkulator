@@ -7,6 +7,12 @@ document.getElementById("n0").addEventListener("click", function () {
      document.getElementById("box3").value = rezultat;
 })
 
+document.getElementById("n1").addEventListener("click", function () {
+  var box4 = parseInt(document.getElementById("box4").value);
+  var box5 = parseInt(document.getElementById("box5").value);
+  var rezultat = box4 - box5;
+  document.getElementById("box6").value = rezultat;
+});
 /* document.getElementById("n9").addEventListener("click", function(){
      var box7 = parseInt(document.getElementById("box7").value);
      var box8 = parseInt(document.getElementById("box8").value);
