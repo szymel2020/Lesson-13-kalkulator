@@ -31,7 +31,20 @@ h1 {
     
 }
 
-#n0,#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9 {
+#n0 {
+    position: relative;
+    height:50px;
+    align-self:center;
+    font-size: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: pink;
+    border-radius: 25px;
+    border: 3px solid blue;
+}
+
+#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9 {
     padding: 20px;
     margin: 3px;
     margin-top: 12px;
