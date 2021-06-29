@@ -26,6 +26,16 @@ document.getElementById("n2").addEventListener("click", function () {
   document.getElementById("box9").value = rezultat;
 });
 
+// divide
+
+document.getElementById("n3").addEventListener("click", function () {
+  var box10 = parseInt(document.getElementById("box10").value);
+  var box11 = parseInt(document.getElementById("box11").value);
+  var rezultat = box10 * box11;
+  document.getElementById("box12").value = rezultat;
+});
+
+
 
 
 /* document.getElementById("n9").addEventListener("click", function(){
