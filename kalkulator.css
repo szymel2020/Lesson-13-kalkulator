@@ -16,7 +16,7 @@ h1 {
     text-shadow:teal 4px 4px;
 }
 
-#box1,#box2,#box3,#box4,#box5,#box6,#box7,#box8,#box9 {
+#box1,#box2,#box3,#box4,#box5,#box6,#box7,#box8,#box9,#box10,#box11,#box12 {
     width: 50px;
     height: 80px;
     margin: 10px;
@@ -69,7 +69,20 @@ h1 {
     justify-content: center;
     background-color: rgb(97, 191, 228);
     border-radius: 5px;
-    border: 3px solid rgb(221, 245, 88); 
+    border: 3px solid rgb(245, 66, 200); 
+}
+
+#n3 {
+   position: relative;
+    height:50px;
+    align-self:center;
+    font-size: 40px;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+    background-color: rgb(235, 104, 28);
+    border-radius: 5px;
+    border: 3px solid rgb(38, 24, 235); 
 }
 
 #n4,#n5,#n6,#n7,#n8,#n9 {
