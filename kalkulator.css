@@ -89,3 +89,21 @@ h1 {
 table, td, th {
     border: solid white;
 }
+
+#equal, #equal1 {
+    display: flex;
+    align-self: center;
+    align-items: center;
+    justify-content: center;
+    width: 18px;
+    height: 3px;
+    margin: 2px;
+    background-color: white;
+}
+
+#equal0 {
+    position: relative;
+    display: flex;
+    align-self:center;
+    flex-direction: column;
+}
