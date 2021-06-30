@@ -95,10 +95,10 @@ table, td, th {
     align-self: center;
     align-items: center;
     justify-content: center;
-    width: 18px;
-    height: 3px;
+    width: 22px;
+    height: 4px;
     margin: 2px;
-    background-color: white;
+    background-color: rgb(200, 241, 19);
 }
 
 #equal0 {
