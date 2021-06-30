@@ -19,15 +19,15 @@ h1 {
 #box1,#box2,#box3,#box4,#box5,#box6,#box7,#box8,#box9,#box10,#box11,#box12 {
     width: 50px;
     height: 80px;
-    margin: 10px;
+    margin: 20px;
     background-color: white;
     display: flex;
-    align-items: center;
-    justify-content: center; 
+    font-size: 50px;
+    padding: 10px;
 }
 
 #allbox,#allB,#allbox1 {
-    display:flex;
+    display: flex;
     
 }
 
@@ -35,7 +35,7 @@ h1 {
     position: relative;
     height:50px;
     align-self:center;
-    font-size: 40px;
+    font-size: 30px;
     display:flex;
     align-items: center;
     justify-content: center;
@@ -85,14 +85,6 @@ h1 {
     border: 3px solid rgb(38, 24, 235); 
 }
 
-#n4,#n5,#n6,#n7,#n8,#n9 {
-    padding: 20px;
-    margin: 3px;
-    margin-top: 12px;
-    color: white;
-    background-color:teal;
-    
-}
 
 table, td, th {
     border: solid white;
