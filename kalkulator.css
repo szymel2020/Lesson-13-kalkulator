@@ -17,7 +17,7 @@ h1 {
 }
 
 #box1,#box2,#box3,#box4,#box5,#box6,#box7,#box8,#box9,#box10,#box11,#box12 {
-    width: 50px;
+    width: 300px;
     height: 80px;
     margin: 20px;
     background-color: white;
@@ -25,6 +25,8 @@ h1 {
     font-size: 50px;
     padding: 10px;
 }
+
+
 
 #allbox,#allB,#allbox1 {
     display: flex;
